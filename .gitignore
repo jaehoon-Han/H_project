@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# config 파일 제외시키기
+config.py
+
 # C extensions
 *.so
 
